@@ -1,0 +1,88 @@
+.body {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+}
+
+ul {
+  list-style: none;
+}
+
+.company-logo {
+  margin-top: 24px;
+  margin-bottom: 25px;
+  margin-left: 215px;
+  margin-right: 1240px;
+}
+
+.nav-link {
+  color: #212121;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: rgb(0, 119, 255);
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.contact-link {
+  color: #757575;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+  color: rgb(0, 119, 255);
+}
+
+.button-list {
+  display: flex;
+  align-items: center;
+}
+
+.work-buttons {
+  width: 200px;
+  height: 50px;
+  left: 700px;
+  top: 433px;
+  color: white;
+  text-align: center;
+  background-color: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+
+.work-buttons:hover {
+  width: 200px;
+  height: 50px;
+  left: 700px;
+  top: 433px;
+  color: white;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  background-color: #188ce8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+
+.figure {
+  display: block;
+}
+
+.footer {
+  background-color: #2f303a;
+}
+
+.adress-info-footer {
+  color: white;
+}
+.contacts-footer {
+  color: rgba(255, 255, 255, 0.6);
+}
